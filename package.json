@@ -102,6 +102,6 @@
     "stylelint-config-standard": "^20.0.0",
     "stylelint-order": "^4.1.0",
     "stylelint-scss": "^3.19.0",
-    "terser": "^5.7.0"
+    "terser": "^5.14.2"
   }
 }
