@@ -98,7 +98,7 @@
     "rollup-plugin-vue": "^6.0.0",
     "sass": "^1.32.12",
     "selenium-standalone": "6.23.0",
-    "stylelint": "^13.13.1",
+    "stylelint": "^15.6.0",
     "stylelint-config-standard": "^20.0.0",
     "stylelint-order": "^4.1.0",
     "stylelint-scss": "^3.19.0",
